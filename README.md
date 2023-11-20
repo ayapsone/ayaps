@@ -1,2 +1,2 @@
-# ayaps.github.io
+# ayaps
 My publications
